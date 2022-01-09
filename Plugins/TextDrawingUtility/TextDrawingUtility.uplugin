@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Text Drawing Utility",
+	"Description": "A Utility component to help render text onto render targets that can then be used in materials.",
+	"Category": "Rendering",
+	"CreatedBy": "Zeplin455",
+	"CreatedByURL": "None",
+	"DocsURL": "https://docs.google.com/document/d/1l5Js_UwZ8Yt9j8iu1MbCXU0oEqtX0cDAlW862XhXbuM/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/80f1a50aae2a44059fc989f303eb3dbd",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EnabledByDefault": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"WhitelistPlatforms": [ "Win64", "Win32" ],
+	"EngineVersion" : "4.27.0",
+	"Modules": [
+		{
+			"Name": "TextDrawingUtility",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
